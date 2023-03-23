@@ -113,7 +113,6 @@ button {
 }
 
 .title /*h2*/{
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -131,16 +130,10 @@ button {
 }
 
 .text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--main-text-color);
-}
-
-.services-card {
-    width: 360px;
-    height: 300px;
 }
 
 .team {
@@ -153,22 +146,11 @@ button {
     background: #FFF;
 }
 
-.team-photo {
-    width: 264px;
-    height: 260px;
-}
-
 .job-card {
     border: 1px solid #E7E9FC;
 }
 
-.job-photo {
-    width: 360px;
-    height: 300px;
-}
-
 .job-title {
-    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -176,7 +158,6 @@ button {
 }
 
 .job-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
